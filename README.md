@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jagdeep-08
+- 👋 Hi, I’m @Jagdeep singh
 - 👀 I’m interested in programming  
 - 🌱 I’m currently learning java and python and i have already learned C 
 - 📫 How to reach me through linkedn on - https://www.linkedin.com/in/jagdeepsingh08/
